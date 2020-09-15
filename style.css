@@ -1,0 +1,153 @@
+#header {
+	background-image: url("");
+	text-align: center-right;
+	height: 118px;
+	background-color: ;
+	margin-bottom: 100px;
+	background-repeat: ;
+	width: 100%;
+	font-size: 40px;
+	
+	float: left-side;
+	
+}
+#icon{
+	float: left;
+	height: 80px;
+	margin-top: auto;
+	margin-right: 20px; 
+	border-radius: 10px;
+}
+#menu{
+	float: center;
+	font-size: 18px;
+	background-color: black;
+	width: 100%;
+	height: 25px;
+	font-stretch: 10px;
+}
+.samp {
+	background-image: url("");
+	background-color: ;
+	text-align: center;
+	width: ;
+	height: auto;
+	margin-left: ;
+	margin-top: 0 auto; 
+	margin-bottom: 10px;
+}
+#item{
+	height: 550px;
+	width: 350px;
+	background-color: #001a32;
+	font-size: 14px;
+	border-radius: 8px;
+	margin-left: 70px;
+	float: left;
+}
+#item, p{
+	margin-top: 0px;
+}
+#item, h3{
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+#item, button, button1{
+	margin-bottom: 50px;
+	margin-top: 0px;
+	
+	
+}
+button, button1{
+	margin-bottom: 50px;
+	margin-top: 0px;
+	height: 60px;
+	width: 200px;
+	text-align: center;
+	font-size: 16px;
+	
+}
+#a{
+	color: white;
+	text-decoration: none;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	text-align: center;
+}
+#item, img{
+	border-radius: 8px;
+	
+}
+#pics{
+	float: right;
+	height: 400px;
+	width: 350px;
+	margin-top: auto;
+}
+a{
+	color: white;
+	text-decoration: none;
+	margin-right: 0px;
+	margin-left: 50px;
+	text-align: right;
+}
+h1{
+	text-align: center-right;
+	color: black;
+	
+}
+h2{
+	text-align:;
+	color: white;
+	
+}
+h3{
+	text-align:;
+	color: white;
+	
+}
+h4{
+	text-align:;
+	color: black;
+	
+}
+p{
+	text-align:;
+	color: black;
+	
+}
+
+.button {
+  background-color: #ffbd45;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0 auto;
+  margin-bottom: 10px ;
+}
+.button1 {border-radius: 8px;}
+.form{
+	margin:  auto;
+	float: right;
+	
+	
+}
+.footer{
+	background-color: black;
+	margin-top: ; 
+	font-size: 12px ;
+	float: right;
+	width:100%;
+}
+body{
+	background-image: url("landscape-4572804_1920.jpg");
+	background-repeat: no-repeat;
+	background-color: #ffe16d;
+	background-size: cover;
+	color: white;
+}
